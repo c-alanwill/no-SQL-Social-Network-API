@@ -89,6 +89,8 @@ A virtual called `reactionCount` retrieves the length of the thought's `reaction
 
 **Schema Settings**:
 
+---
+
 The `reaction` field's subdocument schema in the `Thought` model.
 
 ### API Routes
@@ -153,7 +155,7 @@ The `reaction` field's subdocument schema in the `Thought` model.
 
   ## Installation
 
-The code for this project can be found on GitHub at: https://github.com/c-alanwill/e-commerce-back-end
+The code for this project can be found on GitHub at: https://github.com/c-alanwill/no-SQL-Social-Network-API
 
 A link to a video that shows a walkthrough demonstrating how this readme works is available at: https://drive.google.com/file/d/1ZEQMZJurb9rCPUQbfMvsYG-Qf5GrCIRi/view
 
