@@ -1,4 +1,4 @@
-const formattedDate = (timestamp) => {
+const formatDate = (timestamp) => {
 
   // Create a Date object from the timestamp
   const dateObj =  new Date (timestamp);
